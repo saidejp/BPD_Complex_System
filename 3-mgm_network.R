@@ -1,10 +1,10 @@
 # Mixed Graphical Model: Empirical analysis --------
 # by: Said Jiménez 
-# load("mgm_network.RData")
+
 
 pacman::p_load(tidyverse, qgraph, bootnet, mgm)
 
-
+# Data can be found in main folder
 data <- read_csv("complete_data.csv")
 
 
