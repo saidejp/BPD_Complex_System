@@ -1,6 +1,6 @@
 # Mixed Graphical Model: Empirical analysis --------
 # by: Said Jiménez 
-
+# Here I analyze the data from the DBT group intervention with the MGM network model.
 
 pacman::p_load(tidyverse, qgraph, bootnet, mgm)
 
